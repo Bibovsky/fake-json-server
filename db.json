@@ -2,30 +2,16 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "placeName": "Эрмитаж",
+      "description":"Российский государственный музей изобразительного и декоративно-прикладного искусств",
+      "placeGeoX":59.9391402,
+      "placeGeoY":30.317818,
+      "placeImg":"https://sun9-west.userapi.com/sun9-4/s/v1/ig2/Mpy7DIWrHwPyInuRNIzc3JMQJnzbcBMba6xAYdyyB1chX-i_1cV_VSHDbH7CiyPLv0ZjtGhUXi-Tqk_Pwj6kkw9M.jpg?size=2048x1152&quality=96&type=album",
+      "rating":4.9,
+      "city":"Санкт-Петербург",
+      "typePlace":"Музей-Галерея",
+      "moreDescription":"Больше описания",
+      "free":true
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
